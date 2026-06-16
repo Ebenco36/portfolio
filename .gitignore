@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+
+# Build output (GitHub Actions builds this)
+dist/
+
+# Vite cache
+.vite/
+*.local
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS
+Thumbs.db
+
+
+docs/
+.claude/
