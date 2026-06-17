@@ -343,7 +343,7 @@ const languages = [
           <div class="hero-text">
             <p class="eyebrow"><MapPin :size="16" /> Berlin, Germany</p>
             <h1>Awotoro Ebenezer Oladimeji</h1>
-            <p class="hero-title">Research & Software Engineer</p>
+            <p class="hero-title">Researcher & Software Engineer</p>
             <p class="hero-copy">
               I build reliable backend platforms and research software for data-intensive problems,
               combining production engineering experience with machine learning work in public health
@@ -363,7 +363,7 @@ const languages = [
           <figure class="hero-portrait">
             <div class="portrait-frame">
               <img
-                src="/profile-placeholder-portrait.png"
+                src="/DSC00811_Awotoro_hockant.jpg"
                 alt="Professional portrait of Awotoro Ebenezer Oladimeji"
                 width="1024"
                 height="1536"
@@ -553,7 +553,7 @@ const languages = [
     <footer class="site-footer">
       <div>
         <strong>Awotoro Ebenezer Oladimeji</strong>
-        <span>Research & Software Engineer · Berlin, Germany</span>
+        <span>Researcher & Software Engineer · Berlin, Germany</span>
       </div>
       <div class="footer-links">
         <a href="mailto:ebenco94@gmail.com">Email</a>
