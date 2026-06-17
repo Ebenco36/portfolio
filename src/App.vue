@@ -354,7 +354,7 @@ const languages = [
                 <Mail :size="18" />
                 Contact me
               </a>
-              <a class="button button-secondary" href="/resume-awotoro-ebenezer-oladimeji.pdf" download>
+              <a class="button button-secondary" href="resume-awotoro-ebenezer-oladimeji.pdf" download>
                 <Download :size="18" />
                 Download CV
               </a>
@@ -559,7 +559,7 @@ const languages = [
         <a href="mailto:ebenco94@gmail.com">Email</a>
         <a href="https://linkedin.com/in/ebenezer-awotoro" target="_blank" rel="noreferrer">LinkedIn</a>
         <a href="https://github.com/Ebenco36" target="_blank" rel="noreferrer">GitHub</a>
-        <a href="/resume-awotoro-ebenezer-oladimeji.pdf" download>CV</a>
+        <a href="resume-awotoro-ebenezer-oladimeji.pdf" download>CV</a>
       </div>
     </footer>
   </div>
